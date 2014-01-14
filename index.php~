@@ -19,7 +19,7 @@
 
 <div class='galleri'>
 <h2>Ladda ner gallerit</h2>
-<p>Klicka på följande länken för att ladda ner gallery i github: <a href='https://github.com/rattanaprasith/gallery'>Gallery-plugin</a></p>
+<p>Klicka på följande länken för att ladda ner gallery i github: </p>
 
 <p><b>I paketet ingår:</b>
 <br>index.php - innehåller själva testprogrammet och här kan du lägga fler bilder.
